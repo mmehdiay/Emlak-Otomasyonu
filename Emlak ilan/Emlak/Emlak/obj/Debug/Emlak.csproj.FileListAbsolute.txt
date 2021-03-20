@@ -1,0 +1,26 @@
+C:\Users\AY\Contacts\Desktop\veri tabanı\Emlak\Emlak\bin\Debug\Emlak.exe.config
+C:\Users\AY\Contacts\Desktop\veri tabanı\Emlak\Emlak\bin\Debug\Emlak.exe
+C:\Users\AY\Contacts\Desktop\veri tabanı\Emlak\Emlak\bin\Debug\Emlak.pdb
+C:\Users\AY\Contacts\Desktop\veri tabanı\Emlak\Emlak\obj\Debug\Emlak.csprojAssemblyReference.cache
+C:\Users\AY\Contacts\Desktop\veri tabanı\Emlak\Emlak\obj\Debug\Emlak.Properties.Resources.resources
+C:\Users\AY\Contacts\Desktop\veri tabanı\Emlak\Emlak\obj\Debug\Emlak.csproj.GenerateResource.cache
+C:\Users\AY\Contacts\Desktop\veri tabanı\Emlak\Emlak\obj\Debug\Emlak.csproj.CoreCompileInputs.cache
+C:\Users\AY\Contacts\Desktop\veri tabanı\Emlak\Emlak\obj\Debug\Emlak.exe
+C:\Users\AY\Contacts\Desktop\veri tabanı\Emlak\Emlak\obj\Debug\Emlak.pdb
+C:\Users\AY\Contacts\Desktop\veri tabanı\Emlak\Emlak\obj\Debug\Emlak.frmTumilanlar.resources
+C:\Users\AY\Contacts\Desktop\veri tabanı\Emlak\Emlak\obj\Debug\Emlak.frmIlanDetay.resources
+C:\Users\AY\Contacts\Desktop\veri tabanı\Emlak\Emlak\obj\Debug\Emlak.frmIlanEkle.resources
+C:\Users\AY\Contacts\Desktop\veri tabanı\Emlak\Emlak\obj\Debug\Emlak.frmLogin.resources
+D:\programlama\C#\projelerim\Emlak ilan otomasyonu\Emlak\Emlak\obj\Debug\Emlak.csprojAssemblyReference.cache
+D:\programlama\C#\projelerim\Emlak ilan otomasyonu\Emlak\Emlak\obj\Debug\Emlak.frmIlanEkle.resources
+D:\programlama\C#\projelerim\Emlak ilan otomasyonu\Emlak\Emlak\obj\Debug\Emlak.frmIlanDetay.resources
+D:\programlama\C#\projelerim\Emlak ilan otomasyonu\Emlak\Emlak\obj\Debug\Emlak.frmLogin.resources
+D:\programlama\C#\projelerim\Emlak ilan otomasyonu\Emlak\Emlak\obj\Debug\Emlak.frmTumilanlar.resources
+D:\programlama\C#\projelerim\Emlak ilan otomasyonu\Emlak\Emlak\obj\Debug\Emlak.Properties.Resources.resources
+D:\programlama\C#\projelerim\Emlak ilan otomasyonu\Emlak\Emlak\obj\Debug\Emlak.csproj.GenerateResource.cache
+D:\programlama\C#\projelerim\Emlak ilan otomasyonu\Emlak\Emlak\obj\Debug\Emlak.csproj.CoreCompileInputs.cache
+D:\programlama\C#\projelerim\Emlak ilan otomasyonu\Emlak\Emlak\obj\Debug\Emlak.exe
+D:\programlama\C#\projelerim\Emlak ilan otomasyonu\Emlak\Emlak\obj\Debug\Emlak.pdb
+D:\programlama\C#\projelerim\Emlak ilan otomasyonu\Emlak\Emlak\bin\Debug\Emlak.exe.config
+D:\programlama\C#\projelerim\Emlak ilan otomasyonu\Emlak\Emlak\bin\Debug\Emlak.exe
+D:\programlama\C#\projelerim\Emlak ilan otomasyonu\Emlak\Emlak\bin\Debug\Emlak.pdb
