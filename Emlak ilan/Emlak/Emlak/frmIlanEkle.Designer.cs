@@ -54,6 +54,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.btnilanEkle = new System.Windows.Forms.Button();
             this.tabPageDetay = new System.Windows.Forms.TabPage();
+            this.button1 = new System.Windows.Forms.Button();
             this.btnIlanGuncelle = new System.Windows.Forms.Button();
             this.label21 = new System.Windows.Forms.Label();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
@@ -111,7 +112,6 @@
             this.label11 = new System.Windows.Forms.Label();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.openFileDialog2 = new System.Windows.Forms.OpenFileDialog();
-            this.button1 = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.tabPageIlan.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -251,7 +251,7 @@
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label8.Location = new System.Drawing.Point(435, 209);
+            this.label8.Location = new System.Drawing.Point(437, 213);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(35, 20);
             this.label8.TabIndex = 37;
@@ -260,7 +260,7 @@
             // cbxilce
             // 
             this.cbxilce.FormattingEnabled = true;
-            this.cbxilce.Location = new System.Drawing.Point(479, 207);
+            this.cbxilce.Location = new System.Drawing.Point(478, 213);
             this.cbxilce.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cbxilce.Name = "cbxilce";
             this.cbxilce.Size = new System.Drawing.Size(164, 24);
@@ -414,6 +414,19 @@
             this.tabPageDetay.Size = new System.Drawing.Size(1067, 594);
             this.tabPageDetay.TabIndex = 1;
             this.tabPageDetay.Text = "İlan Detay Ekle";
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.PaleGoldenrod;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button1.Location = new System.Drawing.Point(765, 533);
+            this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(164, 39);
+            this.button1.TabIndex = 26;
+            this.button1.Text = "Tüm İlanlar";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // btnIlanGuncelle
             // 
@@ -1060,19 +1073,6 @@
             // openFileDialog2
             // 
             this.openFileDialog2.FileName = "openFileDialog2";
-            // 
-            // button1
-            // 
-            this.button1.BackColor = System.Drawing.Color.PaleGoldenrod;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button1.Location = new System.Drawing.Point(765, 533);
-            this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(164, 39);
-            this.button1.TabIndex = 26;
-            this.button1.Text = "Tüm İlanlar";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // frmIlanEkle
             // 
